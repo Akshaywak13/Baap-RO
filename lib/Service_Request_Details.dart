@@ -294,6 +294,7 @@ class _ServiceRequestDetailsState extends State<ServiceRequestDetails> {
                                     endIndent: 30,
                                     spacing: 2.0,
                                   ),
+                      
                                 ],
                               );
                             },
